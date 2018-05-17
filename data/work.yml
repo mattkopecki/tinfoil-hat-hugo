@@ -1,0 +1,52 @@
+enable: true
+title: Just some of our latest projects.
+subtitle: Check out some of our latest work.
+
+portfolio:
+  - category: German Styles
+    url: "#"
+    image: "/img/portfolio/work1.jpg"
+    name: Munich Helles
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: IPAs
+    url: "#"
+    image: "/img/portfolio/work2.jpg"
+    name: Big Brother IIPA
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Barrel Aged
+    url: "#"
+    image: "/img/portfolio/work3.jpg"
+    name: 2017 Bourbon Barrel Imperial Wheat
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Original Styles
+    url: "#"
+    image: "/img/portfolio/work4.jpg"
+    name: Rosemary Creme Brûlée
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  
+
+clients:
+  - image: "/img/clients/clients-logo1.png"
+    url: "#"
+  - image: "/img/clients/clients-logo2.png"
+    url: "#"
+  - image: "/img/clients/clients-logo3.png"
+    url: "#"
+  - image: "/img/clients/clients-logo4.png"
+    url: "#"
+  - image: "/img/clients/clients-logo5.png"
+    url: "#"
+  - image: "/img/clients/clients-logo6.png"
+    url: "#"
+  - image: "/img/clients/clients-logo7.png"
+    url: "#"
+  - image: "/img/clients/clients-logo8.png"
+    url: "#"
+  - image: "/img/clients/clients-logo-9.png"
+    url: "#"
+  - image: "/img/clients/clients-logo10.png"
+    url: "#"

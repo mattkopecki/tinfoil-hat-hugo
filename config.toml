@@ -1,0 +1,94 @@
+title = "Tinfoil Hat Brewery"
+baseURL = "/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+[menu]
+
+  [[menu.header]]
+    weight = 2
+    name = "Beers"
+    url = "/work"
+  [[menu.header]]
+    weight = 3
+    name = "Updates"
+    url = "/blog"
+  [[menu.header]]
+    weight = 4
+    name = "Contact"
+    url = "/contact"
+
+  [[menu.footer]]
+    weight = 1
+    name = "About us"
+    url = "#"
+  [[menu.footer]]
+    weight = 2
+    name = "Contact us"
+    url = "/contact"
+  [[menu.footer]]
+    weight = 3
+    name = "How it works"
+    url = "#"
+  [[menu.footer]]
+    weight = 4
+    name = "Blog"
+    url = "#"
+  [[menu.footer]]
+    weight = 5
+    name = "Terms"
+    url = "#"
+
+# The site's parameters
+[params]
+
+  date_format = "6 January 2006"
+
+  home = "Home"
+
+  [params.slider]
+    enable = true
+    title = "TINFOIL HAT BREWERY"
+    subtitle = "CHICAGO, IL<br/>Est. 2015"
+
+  [params.wrapper]
+    enable = true
+    title = "WE'RE AT WAR"
+    italic = "It's the U.S. Government and its secret agencies and programs versus the State sponsored attackers versus the corporations versus the underground hackers, and the American people are caught right in the middle. Or are they responsible? They vote at the polls, with their dollars, and with their attention to keep all these forces in power and maintain the status quo. Cyber warfare is being waged, should we try to stop it, or to win it?"
+
+  [params.blog]
+    enable = true
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "Bad government agencies, good beer."
+    content = "Tinfoil Hat Brewery is an undercover operation based somewhere in Chicago. Our beer was first weaponized and perfected in 2015 under the assumption that no one was watching. Soon after, an unknown attack vector was exploited by a nation-state actor, and within hours Tinfoil Hat knockoffs became the best selling beers in China, Iran, North Korea, and Russia. <br/><br/>Now no amount of feigned public outrage and hyperbolic mouth-frothing can stand in our way. Drink our beer and become a co-conspirator! <br/><br/>END TRANSMISSION.<br/><br/>"
+
+    [params.feature.button]
+      caption = "Drink Beer"
+      url = "#"
+
+  [params.call]
+    enable = true
+    title = "Who are you?"
+    paragraph = "Snowden had his NSA docs. Assange had his leaks. Matt Kopecki has his beer."
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Stop by for a visit"
+      address = " 2417 W Hubbard St, Chicago, IL 60612"
+      email = "Email: contact@mail.com"
+      phone = "Phone: +88 01672 506 744"
+    [params.contact.gmaps]
+      title = "The Brewhouse"

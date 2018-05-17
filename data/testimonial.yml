@@ -1,0 +1,40 @@
+enable: true
+title: Who are you?
+paragraph: >
+  Snowden had his NSA docs. Assange had his leaks. Matt Kopecki has his beer.
+
+numbers:
+  - icon: ion-ios-chatboxes-outline
+    counter: 30
+    text: Batches brewed
+  - icon: ion-ios-glasses-outline
+    counter: 463
+    text: Competitors sampled
+  - icon: ion-ios-compose-outline
+    counter: 2000
+    text: Cups of Coffee
+  - icon: ion-ios-timer-outline
+    counter: 1
+    text: Goal
+
+people:
+  - text: >
+      OMG this beer is so good!
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      MMM... beer
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      I can't believe it's not butter
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
