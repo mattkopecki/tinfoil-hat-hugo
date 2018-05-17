@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        theme: airspace-hugo
+        #theme: airspace-hugo
         flags: --buildDrafts=false
 deploy:
   steps:
